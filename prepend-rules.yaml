@@ -1,1 +1,14 @@
+# Merge Template for clash verge
+# The `Merge` format used to enhance profile
+
+prepend-rules:
 - DOMAIN-SUFFIX,coze.com,🚀 节点选择
+prepend-proxies:
+
+prepend-proxy-groups:
+
+append-rules:
+
+append-proxies:
+
+append-proxy-groups:
